@@ -13,9 +13,20 @@ This is a simple **command-line based To-Do List application** built using Pytho
 - View all tasks
 - Easy-to-use menu-driven interface
 
-## 📂 How to Run
+🎯 Skills Used
 
-1. Make sure Python is installed.
-2. Run the following command in terminal:
+-Python Basics
+-Loops & Conditionals
+-Lists
+-User Input Handling
 
-```bash
+📌 Use Case
+A great starting point for:
+
+-Practicing list manipulation
+-Learning how to build menu-driven applications
+-Understanding user interaction in console-based programs
+
+
+
+
